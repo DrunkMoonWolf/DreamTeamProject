@@ -18,7 +18,7 @@ namespace MathOper
                     
                     break;
                 case "-":
-                    
+                    Console.WriteLine(a - b);
                     break;
                 case "*":
                     
