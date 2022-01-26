@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\307-07\\.nuget\\packages\\": {}
+    "C:\\Users\\307-08\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClonNasty\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+      "projectUniqueName": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
       "projectName": "MathOper",
-      "projectPath": "D:\\ClonNasty\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
-      "packagesPath": "C:\\Users\\307-07\\.nuget\\packages\\",
-      "outputPath": "D:\\ClonNasty\\DreamTeamProject\\MathOper\\MathOper\\obj\\",
+      "projectPath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+      "packagesPath": "C:\\Users\\307-08\\.nuget\\packages\\",
+      "outputPath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\307-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\307-08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,24 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

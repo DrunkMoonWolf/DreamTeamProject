@@ -21,10 +21,10 @@ namespace MathOper
                     
                     break;
                 case "*":
-                    Console.WriteLine(a*b);
+
                     break;
                 case "/":
-                    
+
                     break;
                 default:
                     Console.WriteLine("Такого варианта нет!");
