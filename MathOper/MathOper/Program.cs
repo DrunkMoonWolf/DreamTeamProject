@@ -15,7 +15,7 @@ namespace MathOper
             switch (operation)
             {
                 case "+":
-                    
+                    Console.WriteLine(a + b);
                     break;
                 case "-":
                     

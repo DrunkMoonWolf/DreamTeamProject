@@ -13,11 +13,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+      "projectUniqueName": "E:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
       "projectName": "MathOper",
+<<<<<<< HEAD
       "projectPath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
       "packagesPath": "C:\\Users\\307-08\\.nuget\\packages\\",
       "outputPath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\obj\\",
+=======
+      "projectPath": "E:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "E:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\obj\\",
+>>>>>>> sum
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\307-08\\AppData\\Roaming\\NuGet\\NuGet.Config",
