@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n/AplONfdS6ctc03xa9dim7/6AZP/N28MyBxAEDIVZcfla7xYorhUaULHCa9H2buJbC5w/NdaoDw4pTXOmeAQA==",
+  "dgSpecHash": "KWc73NDV77T/pktnZHNPoAezVa3mt8Xj1NbqrGXeJAtIrdGwyYV/v0xvEG7gP+Dmt6KwMfBkzWJGvbADYWrneg==",
   "success": true,
-  "projectFilePath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ClonNasty\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\307-07\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
