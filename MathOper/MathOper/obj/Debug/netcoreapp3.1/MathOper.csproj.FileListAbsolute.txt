@@ -1,0 +1,14 @@
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.exe
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.deps.json
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.runtimeconfig.json
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.runtimeconfig.dev.json
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.dll
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\bin\Debug\netcoreapp3.1\MathOper.pdb
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.csproj.AssemblyReference.cache
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.AssemblyInfoInputs.cache
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.AssemblyInfo.cs
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.csproj.CoreCompileInputs.cache
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.dll
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.pdb
+D:\ТРПО\DreamTeamProject\MathOper\MathOper\obj\Debug\netcoreapp3.1\MathOper.genruntimeconfig.cache

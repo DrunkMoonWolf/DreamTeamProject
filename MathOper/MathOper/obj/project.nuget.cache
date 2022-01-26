@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "05dFU9Sl+IBloY6fF+qWflmn8gDXoxvbpIu/oC58dQu3uDtpq13m7XSGlE0Z2Sz06OY0rijbPdBg7DVAEhSZbg==",
-=======
-  "dgSpecHash": "KsWi/iVadVX1UH9fhptCem3wYUiiAHbmzjjNDggyixpj2Y5ZrGNwIwM6jJPCK06SnH/PZ+Dvw0KDYDHR59NJqg==",
->>>>>>> sum
   "success": true,
-  "projectFilePath": "E:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
+  "projectFilePath": "D:\\ТРПО\\DreamTeamProject\\MathOper\\MathOper\\MathOper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
